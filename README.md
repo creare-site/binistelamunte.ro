@@ -4,6 +4,14 @@ Romanian Software company focused on Research & Automation  - the official websi
 
 <br />
 
+> Successfully compiled with: 
+
+- Node: `v12.20.0`
+- NPM: `v6.14.8`
+- YARN: `1.22.18`
+
+<br />
+
 ## Products
 
 - [AppSeed](https://appseed.us) - a platform built for developers

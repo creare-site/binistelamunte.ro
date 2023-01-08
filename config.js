@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'RoSoft - Romanian Software Company', // <title>
+  siteTitle: 'Biniste La Munte - Proiect Turistic', // <title>
   manifestName: 'Eventually',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -9,24 +9,24 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'RoSoft',
+  heading: 'BinisteLaMunte.ro',
   subHeading:
-    "Romanian Software Company.",
+    "Proiect Turistic.",
   socialLinks: [
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/rosoftofficial',
+      url: 'https://twitter.com/',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://www.facebook.com/rosoftware',
+      url: 'https://www.facebook.com/',
     },
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/creare-site/rosoftware',
+      url: 'https://github.com/creare-site/binistelamunte.ro',
     }
   ],
 };

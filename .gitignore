@@ -8,3 +8,6 @@ yarn.lock
 # Build directory
 /public
 .DS_Store
+
+deploy.js__
+deploy.js
