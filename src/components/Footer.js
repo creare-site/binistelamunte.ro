@@ -17,7 +17,7 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Goscharisma SRL - RO40143921</li>
+        <li>&copy; BinisteLaMunte.ro - Toate drepturile rezervate.</li>
       </ul>
     </footer>
   );
